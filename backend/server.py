@@ -10,8 +10,8 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
-ROOT = Path(__file__).resolve().parents[1]
-FRONTEND_DIST = ROOT / "frontend" / "dist"
+ROOT = Path(__file__).resolve().parent
+FRONTEND_DIST = ROOT / "dist"
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
