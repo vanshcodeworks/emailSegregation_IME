@@ -1,0 +1,453 @@
+[
+  {
+    "file_name": "1.txt",
+    "email_hash": "389523a3cf8a9bee",
+    "category": "Tonnage",
+    "confidence": "high",
+    "confidence_score": 0.7486,
+    "parsed_at": "2026-06-03T20:01:57.955087+00:00",
+    "source_metadata": {
+      "doc_number": "12940840",
+      "doc_date": "25/MAY/2026",
+      "sender_email": "chartering@primemaritime.gr"
+    },
+    "warnings": [],
+    "extracted_data": [
+      {
+        "vessel_name": "MV SARONIC CHAMPION",
+        "account_name": "PRIME MARITIME INC",
+        "open_port": "VIETNAM",
+        "open_date": "08-12 JUNE",
+        "vessel_type": "Kamsarmax",
+        "vessel_size": "93000",
+        "built_year": "2011",
+        "flag": null,
+        "scrubber": true,
+        "imo_number": null,
+        "class_society": "LR",
+        "record_type": "Tonnage"
+      }
+    ]
+  },
+  {
+    "file_name": "2.txt",
+    "email_hash": "7ec6beb947511337",
+    "category": "Tonnage",
+    "confidence": "high",
+    "confidence_score": 0.7219,
+    "parsed_at": "2026-06-03T20:01:57.966593+00:00",
+    "source_metadata": {
+      "telix_id": "0C7E3-00",
+      "msg_date": "25/05/26",
+      "msg_time": "10:20"
+    },
+    "warnings": [],
+    "extracted_data": [
+      {
+        "vessel_name": "MV SHENG AN HAI",
+        "account_name": null,
+        "open_port": "XIAMEN, china",
+        "open_date": "2ND JUNE 2026",
+        "vessel_type": "Supramax",
+        "vessel_size": "56564",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      },
+      {
+        "vessel_name": "MV FENG HUI HAI",
+        "account_name": null,
+        "open_port": "GUANGZHOU, CHINA",
+        "open_date": "6TH JUNE 2026",
+        "vessel_type": "Ultramax",
+        "vessel_size": "63260",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      },
+      {
+        "vessel_name": "MV YUANPING SEA",
+        "account_name": null,
+        "open_port": "MANILA, PHI",
+        "open_date": "3RD JUNE 2026",
+        "vessel_type": "Supramax",
+        "vessel_size": "55646",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      },
+      {
+        "vessel_name": "MV SHENG DE HAI",
+        "account_name": null,
+        "open_port": "SAMALAJU, MALAYSIA",
+        "open_date": "3RD JUNE 2026",
+        "vessel_type": "Supramax",
+        "vessel_size": "56721",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      },
+      {
+        "vessel_name": "MV YIN HUA 1",
+        "account_name": null,
+        "open_port": "CHITTAGONG, B.DESH",
+        "open_date": "5TH JUNE 2026",
+        "vessel_type": "Handymax",
+        "vessel_size": "46613",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      },
+      {
+        "vessel_name": "MV BI JIA SHAN",
+        "account_name": null,
+        "open_port": "GWADAR, PAKISTAN",
+        "open_date": "2ND JUNE 2026",
+        "vessel_type": "Supramax",
+        "vessel_size": "56623",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      },
+      {
+        "vessel_name": "MV yuanning sea",
+        "account_name": null,
+        "open_port": "SOHAR, OMAN",
+        "open_date": "30TH may 2026",
+        "vessel_type": "Supramax",
+        "vessel_size": "55580",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      },
+      {
+        "vessel_name": "MV COS ORCHID",
+        "account_name": null,
+        "open_port": "DAR ES SALAAM, TANZANIA",
+        "open_date": "1ST JUNE 2026",
+        "vessel_type": "Supramax",
+        "vessel_size": "55550",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      }
+    ]
+  },
+  {
+    "file_name": "3.txt",
+    "email_hash": "8b2586631115473d",
+    "category": "Tonnage",
+    "confidence": "high",
+    "confidence_score": 0.8558,
+    "parsed_at": "2026-06-03T20:01:58.007909+00:00",
+    "source_metadata": {
+      "doc_number": "12939935",
+      "doc_date": "25/MAY/2026",
+      "sender_email": "chartering@primemaritime.gr"
+    },
+    "warnings": [],
+    "extracted_data": [
+      {
+        "vessel_name": "MV TRUE FRIEND",
+        "account_name": "PRIME MARITIME INC",
+        "open_port": "BEJAIA",
+        "open_date": "1ST JUNE",
+        "vessel_type": "BULK CARRIER",
+        "vessel_size": "51000",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      }
+    ]
+  },
+  {
+    "file_name": "4.txt",
+    "email_hash": "75f529cbd445c1da",
+    "category": "Tonnage",
+    "confidence": "high",
+    "confidence_score": 0.6606,
+    "parsed_at": "2026-06-03T20:01:58.012685+00:00",
+    "source_metadata": {
+      "telix_id": "0C2ZL-00",
+      "msg_date": "22/05/26",
+      "msg_time": "10:55"
+    },
+    "warnings": [],
+    "extracted_data": [
+      {
+        "vessel_name": "MV BLUE STAR",
+        "account_name": null,
+        "open_port": "GABES, TUNISIA",
+        "open_date": "25 MAY",
+        "vessel_type": "BULK CARRIER",
+        "vessel_size": "38000",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      }
+    ]
+  },
+  {
+    "file_name": "5.txt",
+    "email_hash": "ec58955f744d17d8",
+    "category": "Tonnage",
+    "confidence": "high",
+    "confidence_score": 0.7386,
+    "parsed_at": "2026-06-03T20:01:58.019881+00:00",
+    "source_metadata": {
+      "telix_id": "0BYXM-00",
+      "msg_date": "21/05/26",
+      "msg_time": "10:30"
+    },
+    "warnings": [],
+    "extracted_data": [
+      {
+        "vessel_name": "MV DE SHENG HAI",
+        "account_name": null,
+        "open_port": "MUCURIPE, BRAZIL",
+        "open_date": "24-25 MAY 2026",
+        "vessel_type": "SDBC",
+        "vessel_size": "38821.5",
+        "built_year": null,
+        "flag": "SDBC",
+        "scrubber": null,
+        "imo_number": "9751286",
+        "class_society": null,
+        "record_type": "Tonnage"
+      },
+      {
+        "vessel_name": "MV AN DING HAI",
+        "account_name": null,
+        "open_port": "CASABLANCA",
+        "open_date": "28-30 MAY 2026",
+        "vessel_type": "SDBC",
+        "vessel_size": "38800",
+        "built_year": null,
+        "flag": null,
+        "scrubber": null,
+        "imo_number": null,
+        "class_society": null,
+        "record_type": "Tonnage"
+      }
+    ]
+  },
+  {
+    "file_name": "6.txt",
+    "email_hash": "ce233bd1d698d23b",
+    "category": "Cargo VC",
+    "confidence": "high",
+    "confidence_score": 0.8596,
+    "parsed_at": "2026-06-03T20:01:58.034799+00:00",
+    "source_metadata": {
+      "telix_id": "09A76-00",
+      "msg_date": "22/05/26",
+      "msg_time": "13:32"
+    },
+    "warnings": [],
+    "extracted_data": [
+      {
+        "account_name": null,
+        "cargo_name": "15,000-20,000 MTS 10PCT MOLOCHOPT",
+        "commodity": "MOLOCHOPT",
+        "quantity": "15,000-20,000 MTS 10PCT",
+        "loading_port": "KOH SI CHANG",
+        "discharge_port": "KANDLA + CHENNAI",
+        "laycan": "MID JULY 2026",
+        "load_rate": "1,000 MTS PWWD SSHEX",
+        "discharge_rate": "1500 MTS PWWD SSHEX",
+        "commission": "3.75 PCT TTL",
+        "cargo_type": "Voyage Charter (VC)",
+        "record_type": "Cargo VC"
+      }
+    ]
+  },
+  {
+    "file_name": "7.txt",
+    "email_hash": "c8a6fc2504c370d0",
+    "category": "Cargo VC",
+    "confidence": "high",
+    "confidence_score": 0.8223,
+    "parsed_at": "2026-06-03T20:01:58.041779+00:00",
+    "source_metadata": {},
+    "warnings": [],
+    "extracted_data": [
+      {
+        "account_name": "LIDOMAR",
+        "cargo_name": "20 000 mt HRC",
+        "commodity": "HRC",
+        "quantity": "20 000 mt",
+        "loading_port": "Jeddah",
+        "discharge_port": "Bilbao",
+        "laycan": "25 June - 5 July",
+        "load_rate": null,
+        "discharge_rate": null,
+        "commission": "3,75% here",
+        "cargo_type": "Voyage Charter (VC)",
+        "record_type": "Cargo VC"
+      }
+    ]
+  },
+  {
+    "file_name": "8.txt",
+    "email_hash": "9da713f587fb93ce",
+    "category": "Cargo VC",
+    "confidence": "high",
+    "confidence_score": 0.8591,
+    "parsed_at": "2026-06-03T20:01:58.050428+00:00",
+    "source_metadata": {},
+    "warnings": [],
+    "extracted_data": [
+      {
+        "account_name": null,
+        "cargo_name": "20-30,000 mts iron slag",
+        "commodity": "iron slag",
+        "quantity": "20-30,000 mts",
+        "loading_port": "Bushehr",
+        "discharge_port": null,
+        "laycan": null,
+        "load_rate": null,
+        "discharge_rate": null,
+        "commission": null,
+        "cargo_type": "Voyage Charter (VC)",
+        "record_type": "Cargo VC"
+      },
+      {
+        "account_name": null,
+        "cargo_name": "30,000 mts of Urea",
+        "commodity": "of Urea",
+        "quantity": "30,000 mts",
+        "loading_port": "BIK",
+        "discharge_port": "Doha",
+        "laycan": "16-20 July",
+        "load_rate": null,
+        "discharge_rate": null,
+        "commission": "3.75% TTL",
+        "cargo_type": "Voyage Charter (VC)",
+        "record_type": "Cargo VC"
+      }
+    ]
+  },
+  {
+    "file_name": "9.txt",
+    "email_hash": "adf568b8a1e0e13e",
+    "category": "Cargo TC",
+    "confidence": "high",
+    "confidence_score": 0.888,
+    "parsed_at": "2026-06-03T20:01:58.055695+00:00",
+    "source_metadata": {
+      "telix_id": "0C2V5-00",
+      "msg_date": "22/05/26",
+      "msg_time": "10:45"
+    },
+    "warnings": [],
+    "extracted_data": [
+      {
+        "account_name": "DAI AN OCEAN SHIPPING COMPANY LIMITED",
+        "cargo_name": "GRAINS",
+        "commodity": "Grains",
+        "delivery_port": null,
+        "redelivery_port": "CHITTAGONG",
+        "duration": null,
+        "laycan": "10-17 JUNE",
+        "vessel_size_req": "SMX-UMX, PREF UMX",
+        "commission": null,
+        "cargo_type": "Time Charter (TC)",
+        "record_type": "Cargo TC"
+      },
+      {
+        "account_name": "DAI AN OCEAN SHIPPING COMPANY LIMITED",
+        "cargo_name": "CLINKER",
+        "commodity": "Clinker",
+        "delivery_port": "SANGATTA (NEAR TO TJ BARA), E KALI OF INDONESIA",
+        "redelivery_port": null,
+        "duration": "30 DAYS WOG.",
+        "laycan": null,
+        "vessel_size_req": "SMX-UMX MAX 20 YRS.",
+        "commission": null,
+        "cargo_type": "Time Charter (TC)",
+        "record_type": "Cargo TC"
+      },
+      {
+        "account_name": "DAI AN OCEAN SHIPPING COMPANY LIMITED",
+        "cargo_name": null,
+        "commodity": null,
+        "delivery_port": null,
+        "redelivery_port": null,
+        "duration": "1-3 YEARS",
+        "laycan": "1-3 YEARS",
+        "vessel_size_req": "SUPRA/ULTRA DELY WW",
+        "commission": null,
+        "cargo_type": "Time Charter (TC)",
+        "record_type": "Cargo TC"
+      }
+    ]
+  },
+  {
+    "file_name": "10.txt",
+    "email_hash": "99a36fc7a65d47b5",
+    "category": "Cargo TC",
+    "confidence": "high",
+    "confidence_score": 0.8609,
+    "parsed_at": "2026-06-03T20:01:58.070700+00:00",
+    "source_metadata": {},
+    "warnings": [],
+    "extracted_data": [
+      {
+        "account_name": "SeaSchiffe",
+        "cargo_name": "Steels/Gens/lawfuls",
+        "commodity": "Lawfuls",
+        "delivery_port": "ECI",
+        "redelivery_port": "Med via GOA transit",
+        "duration": "35-40 days wog",
+        "laycan": "15-18 July",
+        "vessel_size_req": "22k dwt upto HMAX",
+        "commission": "3.75% Adc",
+        "cargo_type": "Time Charter (TC)",
+        "record_type": "Cargo TC"
+      },
+      {
+        "account_name": "Sea Schiffe DMCC",
+        "cargo_name": "Steels/Gens/lawfuls",
+        "commodity": "Lawfuls",
+        "delivery_port": "ECI",
+        "redelivery_port": "ARAG via COGH transit",
+        "duration": "50-55 days wog",
+        "laycan": "21-23 July",
+        "vessel_size_req": "33k dwt upto HMAX",
+        "commission": "3.75% Adc",
+        "cargo_type": "Time Charter (TC)",
+        "record_type": "Cargo TC"
+      }
+    ]
+  }
+]

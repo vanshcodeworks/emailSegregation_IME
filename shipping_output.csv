@@ -1,0 +1,23 @@
+﻿file_name,category,confidence,score,vessel_name,account_name,open_port,open_date,vessel_type,vessel_size,built_year,flag,scrubber,imo_number,class_society,record_type,cargo_name,commodity,quantity,loading_port,discharge_port,laycan,load_rate,discharge_rate,commission,cargo_type,delivery_port,redelivery_port,duration,vessel_size_req
+1.txt,Tonnage,high,0.7486,MV SARONIC CHAMPION,PRIME MARITIME INC,VIETNAM,08-12 JUNE,Kamsarmax,93000,2011,,True,,LR,Tonnage,,,,,,,,,,,,,,
+2.txt,Tonnage,high,0.7219,MV SHENG AN HAI,,"XIAMEN, china",2ND JUNE 2026,Supramax,56564,,,,,,Tonnage,,,,,,,,,,,,,,
+2.txt,Tonnage,high,0.7219,MV FENG HUI HAI,,"GUANGZHOU, CHINA",6TH JUNE 2026,Ultramax,63260,,,,,,Tonnage,,,,,,,,,,,,,,
+2.txt,Tonnage,high,0.7219,MV YUANPING SEA,,"MANILA, PHI",3RD JUNE 2026,Supramax,55646,,,,,,Tonnage,,,,,,,,,,,,,,
+2.txt,Tonnage,high,0.7219,MV SHENG DE HAI,,"SAMALAJU, MALAYSIA",3RD JUNE 2026,Supramax,56721,,,,,,Tonnage,,,,,,,,,,,,,,
+2.txt,Tonnage,high,0.7219,MV YIN HUA 1,,"CHITTAGONG, B.DESH",5TH JUNE 2026,Handymax,46613,,,,,,Tonnage,,,,,,,,,,,,,,
+2.txt,Tonnage,high,0.7219,MV BI JIA SHAN,,"GWADAR, PAKISTAN",2ND JUNE 2026,Supramax,56623,,,,,,Tonnage,,,,,,,,,,,,,,
+2.txt,Tonnage,high,0.7219,MV yuanning sea,,"SOHAR, OMAN",30TH may 2026,Supramax,55580,,,,,,Tonnage,,,,,,,,,,,,,,
+2.txt,Tonnage,high,0.7219,MV COS ORCHID,,"DAR ES SALAAM, TANZANIA",1ST JUNE 2026,Supramax,55550,,,,,,Tonnage,,,,,,,,,,,,,,
+3.txt,Tonnage,high,0.8558,MV TRUE FRIEND,PRIME MARITIME INC,BEJAIA,1ST JUNE,BULK CARRIER,51000,,,,,,Tonnage,,,,,,,,,,,,,,
+4.txt,Tonnage,high,0.6606,MV BLUE STAR,,"GABES, TUNISIA",25 MAY,BULK CARRIER,38000,,,,,,Tonnage,,,,,,,,,,,,,,
+5.txt,Tonnage,high,0.7386,MV DE SHENG HAI,,"MUCURIPE, BRAZIL",24-25 MAY 2026,SDBC,38821.5,,SDBC,,9751286,,Tonnage,,,,,,,,,,,,,,
+5.txt,Tonnage,high,0.7386,MV AN DING HAI,,CASABLANCA,28-30 MAY 2026,SDBC,38800,,,,,,Tonnage,,,,,,,,,,,,,,
+6.txt,Cargo VC,high,0.8596,,,,,,,,,,,,Cargo VC,"15,000-20,000 MTS 10PCT MOLOCHOPT",MOLOCHOPT,"15,000-20,000 MTS 10PCT",KOH SI CHANG,KANDLA + CHENNAI,MID JULY 2026,"1,000 MTS PWWD SSHEX",1500 MTS PWWD SSHEX,3.75 PCT TTL,Voyage Charter (VC),,,,
+7.txt,Cargo VC,high,0.8223,,LIDOMAR,,,,,,,,,,Cargo VC,20 000 mt HRC,HRC,20 000 mt,Jeddah,Bilbao,25 June - 5 July,,,"3,75% here",Voyage Charter (VC),,,,
+8.txt,Cargo VC,high,0.8591,,,,,,,,,,,,Cargo VC,"20-30,000 mts iron slag",iron slag,"20-30,000 mts",Bushehr,,,,,,Voyage Charter (VC),,,,
+8.txt,Cargo VC,high,0.8591,,,,,,,,,,,,Cargo VC,"30,000 mts of Urea",of Urea,"30,000 mts",BIK,Doha,16-20 July,,,3.75% TTL,Voyage Charter (VC),,,,
+9.txt,Cargo TC,high,0.888,,DAI AN OCEAN SHIPPING COMPANY LIMITED,,,,,,,,,,Cargo TC,GRAINS,Grains,,,,10-17 JUNE,,,,Time Charter (TC),,CHITTAGONG,,"SMX-UMX, PREF UMX"
+9.txt,Cargo TC,high,0.888,,DAI AN OCEAN SHIPPING COMPANY LIMITED,,,,,,,,,,Cargo TC,CLINKER,Clinker,,,,,,,,Time Charter (TC),"SANGATTA (NEAR TO TJ BARA), E KALI OF INDONESIA",,30 DAYS WOG.,SMX-UMX MAX 20 YRS.
+9.txt,Cargo TC,high,0.888,,DAI AN OCEAN SHIPPING COMPANY LIMITED,,,,,,,,,,Cargo TC,,,,,,1-3 YEARS,,,,Time Charter (TC),,,1-3 YEARS,SUPRA/ULTRA DELY WW
+10.txt,Cargo TC,high,0.8609,,SeaSchiffe,,,,,,,,,,Cargo TC,Steels/Gens/lawfuls,Lawfuls,,,,15-18 July,,,3.75% Adc,Time Charter (TC),ECI,Med via GOA transit,35-40 days wog,22k dwt upto HMAX
+10.txt,Cargo TC,high,0.8609,,Sea Schiffe DMCC,,,,,,,,,,Cargo TC,Steels/Gens/lawfuls,Lawfuls,,,,21-23 July,,,3.75% Adc,Time Charter (TC),ECI,ARAG via COGH transit,50-55 days wog,33k dwt upto HMAX
