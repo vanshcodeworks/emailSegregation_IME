@@ -2,7 +2,7 @@
 
 End-to-end demo that classifies shipping emails, extracts commercial fields, and highlights vessel-to-cargo opportunities without external LLM APIs.
 
-Live Link ->  
+Live Link ->  [']
 
 ## Problem
 
